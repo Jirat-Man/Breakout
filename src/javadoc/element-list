@@ -1,0 +1,10 @@
+module:Breakout
+breakout
+breakout.balls
+breakout.bricks
+breakout.debuggers
+breakout.GameContainer
+breakout.paddles
+breakout.SoundPlayer
+breakout.Sprites
+breakout.walls
